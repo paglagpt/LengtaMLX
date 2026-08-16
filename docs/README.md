@@ -42,4 +42,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ## v1.5.0 Release
 
-This version introduces the PaglaMLX rebranding from PaglaMLX.
+This version introduces the PaglaMLX rebranding from LengtaMLX.
